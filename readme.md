@@ -16,3 +16,7 @@ Eaglercraft 1.21.4 Server by Ryan Norshare !
 <br>
 <br>
 Note: Remember this server is free and so it is not going to be online 24/7 or lag free so i recommend installing the plugin "Clear Lag" which automatically clears entitys
+
+java -Xms4G -Xmx12G -jar server.jar nogui
+
+java -Xms4G -Xmx12G -jar bungee.jar nogui
